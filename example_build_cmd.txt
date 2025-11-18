@@ -1,0 +1,1 @@
+g++ encode_text.cpp -o encode_text.exe; ./encode_text.exe 3 "-/:" "'" "with love, thank you"
